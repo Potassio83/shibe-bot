@@ -15,7 +15,6 @@ and you are done!
 # Commands
 !shibe with this simple command the bot will send a random photo of a shibe
 
-![shibe](https://potassio.dev/api/shibes)
-
+<img src="https://potassio.dev/api/shibes" width="350" title="!shibe">
 
 thanks https://shibe.online/ for the shibes
